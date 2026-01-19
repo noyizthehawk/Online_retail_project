@@ -483,18 +483,15 @@ Eliminating bottom 1,500-1,800 SKUs would:
 
 **Data Analysis & Processing:**
 - Python 3.x (pandas, NumPy)
-- Jupyter Notebook
 
 **Data Visualization:**
 - Tableau Desktop
-- Matplotlib, Seaborn, Plotly
-
-**Statistical Analysis:**
-- SciPy, statsmodels
+- Matplotlib
 
 **Development:**
 - VS Code
 - Git/GitHub
+- DBEAVER
 
 ---
 
