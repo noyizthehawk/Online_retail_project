@@ -115,7 +115,7 @@ The 13-month analysis reveals extreme revenue volatility with significant implic
 - **Volatility:** 51% coefficient of variation (healthy retail <20%)
 
 **What This Means:**  
-The business operates with unsustainable volatility. While November demonstrates strong capacity, the December collapse signals fundamental issues in supply chain, customer concentration, or business model. The 276% variance between peak and trough indicates a structurally unstable operation.
+The business operates with unsustainable volatility. While November demonstrates strong capacity at scale, the December collapse signals fundamental issues in demand continuity and seasonal customer behavior. The 276% variance between peak and trough indicates a structurally unstable operation.
 
 ---
 
@@ -127,25 +127,26 @@ The business operates with unsustainable volatility. While November demonstrates
 
 **November 2010 Spike:**
 - Revenue: $1,172,336 (+37.6% from October)
-- Customer count: 573 (down 64% from October's 1,607)
-- Implied AOV: ~$2,046 per customer
-- **Pattern:** Fewer customers placing massive wholesale bulk orders
+- Customer count: **1,607 (peak of the year)**
+- Implied AOV: ~$729 per customer
+- **Pattern:** Broad-based wholesale participation across the customer base
 
 **Drivers:**
 - Wholesale holiday inventory buildup (Christmas retail prep)
-- Large B2B accounts stockpiling 8-12 weeks inventory
-- Product mix shift to high-value holiday items (Regency Cakestand, White Hanging Heart, Rotating Silver Angel)
+- High synchronization of mid-sized B2B buyers placing seasonal orders
+- Product mix shift to high-demand holiday items (Regency Cakestand, White Hanging Heart, Rotating Silver Angel)
 
 **December 2010 Collapse:**
 - Revenue: $311,878 (-73.4% from November)
+- Customer count: **573 (-64% from November)**
 - AOV: $544.29 (-25.39%)
 - **Severity:** Worst month in entire 13-month period
 
 **Root Causes:**
-1. **Inventory Depletion:** November bulk orders exhausted customer budgets; retailers stocked through Christmas
-2. **Seasonal Cycle:** B2B customers complete holiday buying by mid-November; December = post-season lull
-3. **Supply Chain Issues:** Potential stockouts after November demand surge
-4. **Customer Loss:** Possible departure of major wholesale accounts
+1. **Seasonal Completion:** B2B customers complete holiday purchasing by mid-November
+2. **Post-Holiday Lull:** Retailers shift from buying to sell-through
+3. **Lack of Replenishment Mechanisms:** No subscription or recurring order structure
+4. **Synchronized Customer Exit:** Majority of customers disengage simultaneously
 
 ---
 
@@ -167,9 +168,9 @@ The business operates with unsustainable volatility. While November demonstrates
 
 **Q4 2010: Extreme Volatility**
 - October: 1,607 customers (peak engagement)
-- November: 573 customers, $1.17M revenue (concentration)
-- December: -73.4% collapse
-- **Insight:** 40-45% of annual revenue concentrated in Q4
+- November: **1,607 customers, $1.17M revenue (broad-based peak)**
+- December: **573 customers, -73.4% revenue collapse**
+- **Insight:** 40-45% of annual revenue concentrated in Q4 due to synchronized purchasing cycles
 
 ---
 
@@ -177,23 +178,11 @@ The business operates with unsustainable volatility. While November demonstrates
 
 ![Total Revenue vs AOV Variance](sales_vs_AOV.png)
 
-**The Inverse Correlation:**
-Strong negative correlation (-0.68) between customer count and AOV reveals two distinct business segments:
-
-**Wholesale Mega-Accounts (10-15% of customers):**
-- AOV: $1,500-$3,000+
-- Frequency: Seasonal bulk orders
-- Revenue contribution: 60-70%
-- Example: November's 573 customers at $2,046 AOV
-
-**Small Business/Retail Mix (85-90% of customers):**
-- AOV: $300-$800
-- Frequency: Consistent year-round
-- Revenue contribution: 30-40%
-- Example: October's 1,607 customers at $590 AOV
+**Customer Volume Dynamics:**
+Revenue closely tracks customer participation. November demonstrates high revenue driven by high customer engagement, while December’s collapse reflects simultaneous customer disengagement rather than a loss of only high-value accounts.
 
 **Strategic Implication:**  
-Over-dependence on 20-30 mega-accounts creates extreme vulnerability. Loss of 5-10 major accounts could reduce revenue by 30-40%.
+The primary risk is **temporal concentration of customer activity**, not purely dependence on a small number of mega-accounts. Revenue stability depends on smoothing purchase timing across the year.
 
 ---
 
@@ -202,12 +191,12 @@ Over-dependence on 20-30 mega-accounts creates extreme vulnerability. Loss of 5-
 ![Unique Customers Analysis](sales_vs_AOV.png)
 
 **Customer Volatility:**
-- Range: 720 (January) to 1,607 (October) - 123% variance
-- November drop: 64% customer loss (1,607 → 573)
-- **Pattern:** High churn with seasonal buying behavior
+- Range: 720 (January) to 1,607 (October/November) - 123% variance
+- December drop: 64% customer loss (1,607 → 573)
+- **Pattern:** Highly seasonal, synchronized buying behavior
 
 **Customer Segmentation:**
-1. **Seasonal Wholesale (20-30%):** Annual holiday orders only
+1. **Seasonal Wholesale (20-30%):** Holiday-focused annual orders
 2. **Opportunistic Retail (40-50%):** Irregular purchases, high churn
 3. **Core Repeat (30-40%):** Consistent monthly/quarterly ordering
 
@@ -216,7 +205,6 @@ Over-dependence on 20-30 mega-accounts creates extreme vulnerability. Loss of 5-
 - High first-purchase, low-repeat pattern
 - Weak retention economics
 
----
 
 ### Product Performance Analysis
 
