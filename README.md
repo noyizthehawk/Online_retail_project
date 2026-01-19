@@ -208,7 +208,7 @@ The primary risk is **temporal concentration of customer activity**, not purely 
 
 ### Product Performance Analysis
 
-![Top Products Per Month](Top_product..onth.png)
+![Top Products Per Month](Top_product_per_month.png)
 
 **Consistent Top Performers:**
 
